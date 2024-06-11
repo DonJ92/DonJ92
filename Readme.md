@@ -16,4 +16,4 @@ The way to get started is to quit talking and begin doing.
     - Git, Docker, AWS, GCP, Azure
   - Blockchain knowledge
   - Business knowledge of the financial industry
-- 📫 How to reach me: don.j_1116@hotmail.com
+- 📫 How to reach me: don.j_0408@hotmail.com
