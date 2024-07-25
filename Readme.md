@@ -2,7 +2,7 @@
 
 The way to get started is to quit talking and begin doing.
 
-- 🔭 I’m currently working on: PM and developing services.
+- 🔭 I’m currently working on: Software Engineer
 - 💻 Experience, knowledge, and technology that can be utilized: 
   - Experience in defining requirements and system designing
   - Development Skills
