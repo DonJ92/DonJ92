@@ -6,10 +6,10 @@ The way to get started is to quit talking and begin doing.
 - 💻 Experience, knowledge, and technology that can be utilized: 
   - Experience in defining requirements and system designing
   - Development Skills
-    - PHP (Laravel, CodeIgniter, CakePHP)
-    - Go (Echo)
+    - PHP (Laravel, CodeIgniter, CakePHP, FuelPHP, Zend)
+    - Go (Echo, Gin)
     - SmartContracts (Solidity)
-    - Node.js
+    - Node.js (Express.js)
     - Javascript (React, Vue, TypeScript)
     - HTML/CSS
     - MySQL, PostgreSQL, Oracle, Redis etc
